@@ -21,12 +21,12 @@ Os dois projetos estão no ar e têm conta de demonstração: dá para entrar co
 
 ### Tecnologias
 
-**Linguagens:** TypeScript, JavaScript, Java, Python, SQL
-**Back-end:** Node.js, Express, Spring Boot, Flask, Zod, JWT
-**Front-end:** React, Vite, HTML, CSS, Tailwind CSS
-**Dados:** PostgreSQL, MySQL, Supabase
-**Testes:** Vitest, Supertest, JUnit, Mockito
-**Cloud e ferramentas:** AWS, Google Cloud, Git, N8N
+- **Linguagens:** TypeScript, JavaScript, Java, Python, SQL
+- **Back-end:** Node.js, Express, Spring Boot, Flask, Zod, JWT
+- **Front-end:** React, Vite, HTML, CSS, Tailwind CSS
+- **Dados:** PostgreSQL, MySQL, Supabase
+- **Testes:** Vitest, Supertest, JUnit, Mockito
+- **Cloud e ferramentas:** AWS, Google Cloud, Git, N8N
 
 ### Contato
 
